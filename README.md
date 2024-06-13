@@ -1,6 +1,6 @@
 # ``Blinken Bot``
 
-U.S. Secretary of State Antony Blinken is the frontman for his the band "Ablinken". This is a Robot Process Automation ([RPA for Python](https://github.com/tebelorg/RPA-Python)) script for boosting his stream numbers on [Spotify](https://open.spotify.com/artist/5ZWgy4Riyzr0QtvcIKiZmF). This repository was adapted from [``Reynolds Bot``](https://github.com/mw6136/reynolds-bot), a robot process automation botnet for Keenan Reynolds Heisman trophy voting.
+U.S. Secretary of State Antony Blinken is the frontman for the band "Ablinken". This is a Robot Process Automation ([RPA for Python](https://github.com/tebelorg/RPA-Python)) script for boosting his stream numbers on [Spotify](https://open.spotify.com/artist/5ZWgy4Riyzr0QtvcIKiZmF). This repository was adapted from [``Reynolds Bot``](https://github.com/mw6136/reynolds-bot), a robot process automation botnet for Keenan Reynolds Heisman trophy voting.
 
 <p align="center">
 <img src="https://github.com/mw6136/blinken-bot/assets/144184708/06138352-8205-4559-b6cd-119071aacbef" width="500">
